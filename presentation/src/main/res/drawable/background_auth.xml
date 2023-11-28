@@ -12,8 +12,8 @@
           android:centerX="400.8"
           android:centerY="-238.445"
           android:type="radial">
-        <item android:offset="0.0891783" android:color="@color/blue"/>
-        <item android:offset="0.779693" android:color="@color/brandColor"/>
+        <item android:offset="0.0891783" android:color="FF96E6CD"/>
+        <item android:offset="0.779693" android:color="#FF009688"/>
       </gradient>
     </aapt:attr>
   </path>
